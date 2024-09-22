@@ -1,0 +1,283 @@
+
+.div {
+  display: flex;
+  gap: 20px;
+}
+@media (max-width: 991px) {
+  .div {
+    flex-wrap: wrap;
+  }
+}
+.div-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  margin: auto 0;
+}
+.img {
+  aspect-ratio: 1.01;
+  object-fit: auto;
+  object-position: center;
+  width: 117px;
+  max-width: 100%;
+left: 2.41%;
+right: 91.65%;
+top: 39.24%;
+bottom: 50.17%;
+
+transform: rotate(-39.49deg);
+
+}
+.img-2 {
+  aspect-ratio: 1.04;
+  object-fit: auto;
+  object-position: center;
+  width: 134px;
+  margin: 81px 0 0 13px;
+}
+@media (max-width: 991px) {
+  .img-2 {
+    margin: 40px 0 0 10px;
+  }
+}
+.div-3 {
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px;
+}
+@media (max-width: 991px) {
+  .div-3 {
+    max-width: 100%;
+  }
+}
+.div-4 {
+  align-self: center;
+  width: 422px;
+  max-width: 100%;
+}
+.div-5 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-5 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 76%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column {
+    width: 100%;
+  }
+}
+.img-3 {
+  aspect-ratio: 1.75;
+  object-fit: auto;
+  object-position: center;
+  width: 123px;
+  margin-top: 39px;
+  max-width: 100%;
+  flex-grow: 1;
+}
+@media (max-width: 991px) {
+  .img-3 {
+    margin-top: 40px;
+  }
+}
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 24%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-2 {
+    width: 100%;
+  }
+}
+.img-4 {
+  aspect-ratio: 1.09;
+  object-fit: auto;
+  object-position: center;
+  width: 93px;
+}
+@media (max-width: 991px) {
+  .img-4 {
+    margin-top: 40px;
+  }
+}
+.div-6 {
+  color: #000;
+  letter-spacing: 7px;
+  margin-top: 51px;
+  font: 700 66px/75px Jost, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-6 {
+    max-width: 100%;
+    margin-top: 40px;
+    font-size: 40px;
+    line-height: 51px;
+  }
+}
+.div-7 {
+  color: #666;
+  margin-top: 63px;
+  font: 400 26px/46px Jost, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-7 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-8 {
+  align-self: start;
+  display: flex;
+  margin-top: 65px;
+  gap: 14px;
+}
+@media (max-width: 991px) {
+  .div-8 {
+    margin-top: 40px;
+  }
+}
+.img-5 {
+  aspect-ratio: 1;
+  object-fit: auto;
+  object-position: center;
+  width: 48px;
+  fill: #666;
+}
+.img-6 {
+  aspect-ratio: 1;
+  object-fit: auto;
+  object-position: center;
+  width: 48px;
+  fill: #666;
+}
+.div-9 {
+  align-self: start;
+  display: flex;
+  margin-top: 79px;
+  gap: 20px;
+  font-size: 26px;
+  color: #000;
+  font-weight: 700;
+  letter-spacing: -1px;
+  line-height: 70px;
+  justify-content: space-between;
+}
+@media (max-width: 991px) {
+  .div-9 {
+    margin-top: 40px;
+  }
+}
+.div-10 {
+  font-family: Jost, sans-serif;
+  margin: auto 0;
+}
+.div-11 {
+margin-top: 13px;
+  border-color: rgba(102, 102, 102, 1);
+  border-style: solid;
+  border-width: 3px;
+  background-color: #666;
+  width: 2px;
+  height: 34px;
+}
+.div-12 {
+  align-self: start;
+  margin-top: 52px;
+  flex-grow: 1;
+  flex-basis: auto;
+}
+@media (max-width: 991px) {
+  .div-12 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-13 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-13 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column-3 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 58%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column-3 {
+    width: 100%;
+  }
+}
+.img-7 {
+  aspect-ratio: 1;
+  object-fit: auto;
+  object-position: center;
+  width: 100%;
+  box-shadow: 0px 0px 35.5px -3px #33a9dc;
+  margin-top: 88px;
+}
+@media (max-width: 991px) {
+  .img-7 {
+    margin-top: 40px;
+  }
+}
+.column-4 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 42%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-4 {
+    width: 100%;
+  }
+}
+.div-14 {
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-14 {
+    margin-top: 34px;
+  }
+}
+.img-8 {
+  aspect-ratio: 0.96;
+  object-fit: auto;
+  object-position: center;
+  width: 112px;
+  max-width: 100%;
+}
+
+.img-9 {
+  aspect-ratio: 1.2;
+  object-fit: auto;
+  object-position: center;
+  width: 111px;
+  align-self: end;
+  margin-top: 33px;
+  max-width: 100%;
+}
